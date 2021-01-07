@@ -9,6 +9,9 @@ if you don't have the inflect module installed, you can either run:
 
 pip3 install inflect
 
-in your terminal, or just simply run the python3.7 executable that you can find in the repository folder. For example,
+or
 
-[Path to the PyRunes folder]/python3.7 [Same Path]/main.py
+pip3 install -r requirements.txt
+
+If you're like normal people.
+
